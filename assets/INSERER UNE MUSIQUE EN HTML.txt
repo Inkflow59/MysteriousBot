@@ -1,0 +1,1 @@
+<embed src="ton_fichier.mp3" autostart="true" loop="false" hidden="true"></embed>

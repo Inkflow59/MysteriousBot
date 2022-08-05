@@ -1,0 +1,1 @@
+<p><a href="blocked_link.html" onclick="alert('Vous avez cliqué !'); return false;">Cliquez-moi !</a><p/>

@@ -1,0 +1,1 @@
+Pour jouer au jeu, il faut ouvrir "acceuil.html", sinon j'ai mis 2 liens d'entraînement pour les 2 combats du jeu, ça aidera !!
