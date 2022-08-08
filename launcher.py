@@ -10,3 +10,5 @@ def launch():
             quit()
         else:
             return None
+
+# Launcher pas fini, veuillez lancer le jeu en cliquant sur "accueil.html" dans le dossier "assets"
