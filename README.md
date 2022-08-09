@@ -1,3 +1,7 @@
+[![made-with-html](https://img.shields.io/badge/Made%20with-HTML-009dcf.svg)](https://www.python.org/)
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-009dcf.svg)](https://www.javascript.com)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-009dcf.svg)](https://shields.io/)
+
 # Mysterious Bot (Jeu français)
 
 Le jeu a été développé en **février 2016**, quand j'étais pas très fort en HTML *(petite amélioration depuis)* et est né d'une simple idée de créer un jeu en **une semaine**. Il se peut donc que je le remasterise pour qu'il soit meilleur, que ça soit au niveau de l'histoire, de la visibilité, ou encore de **l'arrangement** du projet. En attendant, je le republie sur GitHub pour garder les fichiers du jeu en lieu sûr.
