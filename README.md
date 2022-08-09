@@ -8,7 +8,7 @@ Le jeu a été développé en **février 2016**, quand j'étais pas très fort e
 
 ## Comment je lance le jeu ?
 
-Et bien Jérémy, c'est extrêmement simple, il te suffit de télécharger le jeu et de lancer le fichier `accueil.html`. À toi le fun pendant des heures ! ~~(C'est faux)~~
+Et bien Jérémy, c'est extrêmement simple, il te suffit de télécharger le jeu et de lancer le fichier `index.html`. À toi le fun pendant des heures ! ~~(C'est faux)~~
 
 ## À quand le remaster ?
 
