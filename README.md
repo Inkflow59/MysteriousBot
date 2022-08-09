@@ -1,6 +1,5 @@
 [![made-with-html](https://img.shields.io/badge/Made%20with-HTML-009dcf.svg)](https://www.python.org/)
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-009dcf.svg)](https://www.javascript.com)
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-009dcf.svg)](https://shields.io/)
 
 # Mysterious Bot (Jeu français)
 
