@@ -23,6 +23,7 @@ export default {
 }</script>
 
 <style>
-#background {
-
-}</style>
+    #zebi {
+       font-color: rgb(50, 60, 70);
+    }
+</style>
